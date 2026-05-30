@@ -1,6 +1,6 @@
 import svgPaths from "./svg-l470gbmhed";
-import imgImageCuret from "../큐렛_로고.png";
-import profilePhoto from "../________4_.png";
+import imgImageCuret from "../큐렛_로고.webp";
+import profilePhoto from "../________4_.webp";
 
 function Container3() {
   return (
